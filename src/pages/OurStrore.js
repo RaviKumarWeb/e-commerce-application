@@ -222,9 +222,7 @@ const OurStrore = () => {
                     aria-describedby="a11y-refresh-page-message"
                     fdprocessedid="uoa99u"
                   >
-                    <option value="manual" selected="selected">
-                      Featured
-                    </option>
+                    <option value="manual">Featured</option>
                     <option value="best-selling">Best selling</option>
                     <option value="title-ascending">Alphabetically, A-Z</option>
                     <option value="title-descending">
